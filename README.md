@@ -1,2 +1,1 @@
-# cons-n-stuff
-Cons&amp;Stuff Wiki
+# Cons&amp;Stuff Wiki
